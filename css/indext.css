@@ -1,0 +1,139 @@
+
+body{
+    background-color: #1E202B;
+}
+li{
+    padding-left: 20px;
+}
+.my-nave{
+    background-color: rgb(30, 32, 40)!important;
+}
+
+.logo img{
+    width: 100%;
+}
+
+.con-nav h2{
+    font-size: 17px;
+}
+.con-nav p{
+    font-size: 10px;
+}
+.navbar-nav .nav-link{
+    transition: all 0.4s;
+}
+.nav-link:hover{
+    border: 2px #4f58f4 solid;
+    color: #009AD8;
+
+}
+.my-mg{
+   height: 50vh;
+   width: 100%;
+   overflow: hidden;
+}
+.my-mg .img{
+width: 100% !important;
+}
+.find-location {
+    margin-bottom: 70px;
+   
+}
+.find-location .my-in{
+    width:80% ;
+    background-color: #0c1027;
+    color: aliceblue;
+    padding: 13px 5px;
+    border-radius: 20px;
+    position: absolute;
+    top: 25%;
+    right: 10%;
+}
+input[type="button"] {
+    position: absolute;
+    top: 25.55%;
+    right: 10.2%;
+    padding:10px 25px;
+    
+}
+.sub {
+    border: none;
+    background: #009ad8;
+    border-radius: 30px;
+    color: white;
+}
+.cast{
+  background-color:#323544 ; 
+  border-radius: 15px 0 0 0; 
+}
+.today-forcast .forcast-header{
+    background-color:#2D303D;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    border-bottom: #0c1027 solid;
+    border-radius: 15px 0 0 0;
+
+}
+.forcast-header .day,.date,.location,span{
+    color: #AEB0B8;
+}
+.cast-2{
+    background-color: #262936;
+}
+.location{
+    color:#AEB0B8 ;
+}
+.cont-card{
+    position: absolute;
+    top: 40%;
+    left: 5%;
+}
+.prag{
+    color: #AEB0B8;
+}
+.site-footer {
+    background: #262936;
+    padding: 80px 0;
+  }
+  .site-footer .subscribe-form {
+    position: relative;
+    margin-top: 0px;
+    margin-bottom: 10px;
+  }
+  .site-footer .subscribe-form .inp {
+    padding: 10px 100px 10px 20px;
+    border-radius: 30px;
+    background: #1e202b;
+    width: 100%;
+    color: white;
+  }
+  .site-footer .subscribe-form .supmit {
+    position: absolute;
+    background-color: #009ad8;
+    padding: 0 15px;
+    color: aliceblue;
+    border-radius: 30px;
+    border: 0;
+    right: 5px;
+    top: 5px;
+    bottom: 5px;
+  }
+  .site-footer .social-links a {
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    border-radius: 50%;
+    background: #1e202b;
+    color: #009ad8;
+    text-align: center;
+    line-height: 2;
+    -webkit-transition: 0.3s ease;
+    transition: 0.3s ease;
+    font-size: 20px;
+    font-size: 1.4285714286em;
+  }
+  .site-footer .social-links a:hover {
+    background: #009ad8;
+    color: white;
+  }
+  
